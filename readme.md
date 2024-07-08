@@ -1,9 +1,7 @@
 
-# Nguyên tắc SOLID
+# Desgin pattern 
 
-Việc áp dụng các nguyên tắc SOLID giúp mã nguồn trở nên dễ bảo trì, dễ mở rộng và dễ hiểu hơn.
-
-SOLID là một tập hợp năm nguyên tắc thiết kế trong lập trình hướng đối tượng, giúp tăng cường tính linh hoạt và bảo trì của mã nguồn. Các nguyên tắc SOLID bao gồm:
+ là các giải pháp điển hình cho các vấn đề thường gặp trong thiết kế phần mềm. Chúng giống như các bản thiết kế có thể được điều chỉnh để giải quyết một vấn đề cụ thể trong mã của bạn. Sử dụng các mẫu thiết kế có thể tăng tốc quá trình phát triển phần mềm bằng cách cung cấp các mô hình phát triển đã được thử nghiệm và chứng minh
 
 ## 1. Strategy pattern 
 
